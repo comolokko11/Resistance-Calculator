@@ -1,4 +1,4 @@
-var katsayi1=document.getElementById("color1");
+var katsayi1=document.getElementById("color1"); //test
 var katsayi2=document.getElementById("color2");
 var katsayi3=document.getElementById("color3");
 var tolerans=document.getElementById("color4");
